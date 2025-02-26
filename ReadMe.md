@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Sobre mim:
 Sou estudante na Universidade de Passo Fundo<br>Análise e Desenvolvimento de Sistemas<br>Front-End<br>Back-End<br>18 anos
 
 
